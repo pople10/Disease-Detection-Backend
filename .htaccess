@@ -1,0 +1,19 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/trackmhr/medcine.trackiness.com"
+PassengerBaseURI "/"
+PassengerPython "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/bin/python3.8"
+PassengerAppLogFile "/home/trackmhr/medcine.trackiness.com/log.txt"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/trackmhr/medcine.trackiness.com"
+PassengerBaseURI "/"
+PassengerPython "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/bin/python3.8"
+PassengerAppLogFile "/home/trackmhr/medcine.trackiness.com/log.txt"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/trackmhr/medcine.trackiness.com"
+PassengerBaseURI "/"
+PassengerPython "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/bin/python3.8"
+PassengerAppLogFile "/home/trackmhr/medcine.trackiness.com/log.txt"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

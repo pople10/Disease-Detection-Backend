@@ -1,0 +1,1205 @@
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS, cross_origin
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS, cross_origin
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS, cross_origin
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS, cross_origin
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS, cross_origin
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS, cross_origin
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS, cross_origin
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS, cross_origin
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 6, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 2, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 1, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 1, in <module>
+    from flask_cors import CORS
+ModuleNotFoundError: No module named 'flask_cors'
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 48, in <module>
+    @cross_origin()
+NameError: name 'cross_origin' is not defined
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 48, in <module>
+    @cross_origin()
+NameError: name 'cross_origin' is not defined
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 48, in <module>
+    @cross_origin()
+NameError: name 'cross_origin' is not defined
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 48, in <module>
+    @cross_origin()
+NameError: name 'cross_origin' is not defined
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 48, in <module>
+    @cross_origin()
+NameError: name 'cross_origin' is not defined
+Traceback (most recent call last):
+  File "/home/trackmhr/medcine.trackiness.com/passenger_wsgi.py", line 8, in <module>
+    wsgi = imp.load_source('wsgi', 'app.py')
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib64/python3.8/imp.py", line 171, in load_source
+    module = _load(spec)
+  File "<frozen importlib._bootstrap>", line 702, in _load
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "app.py", line 48, in <module>
+    @cross_origin()
+NameError: name 'cross_origin' is not defined
+[2021-05-29 15:50:57,752] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 100, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 25, in MultinomialNBMethod
+    return mulNB.predict(getSymtopms(a.split(','),cols))[0]
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-05-29 15:51:04,787] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 100, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 25, in MultinomialNBMethod
+    return mulNB.predict(getSymtopms(a.split(','),cols))[0]
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+OpenBLAS blas_thread_init: pthread_create failed for thread 8 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 9 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 10 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 11 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 12 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 13 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 14 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 15 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 16 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 17 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 18 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 19 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 20 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 21 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 22 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+OpenBLAS blas_thread_init: pthread_create failed for thread 23 of 24: Resource temporarily unavailable
+OpenBLAS blas_thread_init: RLIMIT_NPROC 1400 current, 1500 max
+2021-07-02 07:40:17.988592 [UID:1407][842839] fork() failed, please increase process limit, errno: 12 (Cannot allocate memory)
+2021-07-02 07:40:17.989381 [UID:1407][842839] fork() failed, please increase process limit, errno: 12 (Cannot allocate memory)
+2021-07-02 07:40:17.989479 [UID:1407][842839] fork() failed, please increase process limit, errno: 12 (Cannot allocate memory)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+2021-07-02 08:38:37.841508 [UID:1407][842839] Killing runaway process PID: 845630 with SIGTERM
+2021-07-02 08:38:37.855238 [UID:1407][842839] Child process with pid: 845630 was killed by signal: 15, core dump: 0
+[2021-07-02 19:29:05,720] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:29:19,291] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:29:31,223] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:29:39,915] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:34:25,463] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:35:00,666] ERROR in app: Exception on /api/getDiease/kmeans [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 123, in kmeans
+    return jsonify(KmeansMethod(request.args.get('Symptom')))
+  File "app.py", line 52, in KmeansMethod
+    return {'result':disease[kmeans.predict(getSymtopms(a.split(','),cols))[0]],'score':kmeans.score(X),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:35:03,716] ERROR in app: Exception on /api/getDiease/kneighbors [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 127, in kneighbors
+    return jsonify(KNeighborsClassifierMethod(request.args.get('Symptom')))
+  File "app.py", line 69, in KNeighborsClassifierMethod
+    return {'result':kneighbor.predict(getSymtopms(a.split(','),cols))[0],'score':kneighbor.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-02 19:36:11,333] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:36:39,319] ERROR in app: Exception on /api/getDiease/kmeans [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 123, in kmeans
+    return jsonify(KmeansMethod(request.args.get('Symptom')))
+  File "app.py", line 52, in KmeansMethod
+    return {'result':disease[kmeans.predict(getSymtopms(a.split(','),cols))[0]],'score':kmeans.score(X),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:36:40,295] ERROR in app: Exception on /api/getDiease/kneighbors [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 127, in kneighbors
+    return jsonify(KNeighborsClassifierMethod(request.args.get('Symptom')))
+  File "app.py", line 69, in KNeighborsClassifierMethod
+    return {'result':kneighbor.predict(getSymtopms(a.split(','),cols))[0],'score':kneighbor.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-02 19:36:56,853] ERROR in app: Exception on /api/getDiease/logisticregression [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 131, in logisticregression
+    return jsonify(LogisticRegressionMethod(request.args.get('Symptom')))
+  File "app.py", line 82, in LogisticRegressionMethod
+    return {'result':logisticregression.predict(getSymtopms(a.split(','),cols))[0],'score':logisticregression.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:36:57,347] ERROR in app: Exception on /api/getDiease/gaussiannb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 135, in gaussiannb
+    return jsonify(GaussianNBMethod(request.args.get('Symptom')))
+  File "app.py", line 40, in GaussianNBMethod
+    return {'result':gaussiannb.predict(getSymtopms(a.split(','),cols))[0],'score':gaussiannb.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:50:43,408] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:53:19,919] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:53:29,111] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:53:32,220] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-02 19:54:13,391] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-03 11:39:38,682] ERROR in app: Exception on /api/getDiease/kmeans [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 123, in kmeans
+    return jsonify(KmeansMethod(request.args.get('Symptom')))
+  File "app.py", line 52, in KmeansMethod
+    return {'result':disease[kmeans.predict(getSymtopms(a.split(','),cols))[0]],'score':kmeans.score(X),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 11:39:39,805] ERROR in app: Exception on /api/getDiease/kneighbors [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 127, in kneighbors
+    return jsonify(KNeighborsClassifierMethod(request.args.get('Symptom')))
+  File "app.py", line 69, in KNeighborsClassifierMethod
+    return {'result':kneighbor.predict(getSymtopms(a.split(','),cols))[0],'score':kneighbor.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-03 11:40:00,033] ERROR in app: Exception on /api/getDiease/logisticregression [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 131, in logisticregression
+    return jsonify(LogisticRegressionMethod(request.args.get('Symptom')))
+  File "app.py", line 82, in LogisticRegressionMethod
+    return {'result':logisticregression.predict(getSymtopms(a.split(','),cols))[0],'score':logisticregression.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 11:40:00,734] ERROR in app: Exception on /api/getDiease/gaussiannb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 135, in gaussiannb
+    return jsonify(GaussianNBMethod(request.args.get('Symptom')))
+  File "app.py", line 40, in GaussianNBMethod
+    return {'result':gaussiannb.predict(getSymtopms(a.split(','),cols))[0],'score':gaussiannb.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 11:40:01,266] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 16:51:44,158] ERROR in app: Exception on /api/getDiease/kmeans [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 123, in kmeans
+    return jsonify(KmeansMethod(request.args.get('Symptom')))
+  File "app.py", line 52, in KmeansMethod
+    return {'result':disease[kmeans.predict(getSymtopms(a.split(','),cols))[0]],'score':kmeans.score(X),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 16:51:45,282] ERROR in app: Exception on /api/getDiease/kneighbors [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 127, in kneighbors
+    return jsonify(KNeighborsClassifierMethod(request.args.get('Symptom')))
+  File "app.py", line 69, in KNeighborsClassifierMethod
+    return {'result':kneighbor.predict(getSymtopms(a.split(','),cols))[0],'score':kneighbor.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-03 16:52:02,668] ERROR in app: Exception on /api/getDiease/logisticregression [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 131, in logisticregression
+    return jsonify(LogisticRegressionMethod(request.args.get('Symptom')))
+  File "app.py", line 82, in LogisticRegressionMethod
+    return {'result':logisticregression.predict(getSymtopms(a.split(','),cols))[0],'score':logisticregression.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 16:52:03,229] ERROR in app: Exception on /api/getDiease/gaussiannb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 135, in gaussiannb
+    return jsonify(GaussianNBMethod(request.args.get('Symptom')))
+  File "app.py", line 40, in GaussianNBMethod
+    return {'result':gaussiannb.predict(getSymtopms(a.split(','),cols))[0],'score':gaussiannb.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 16:52:03,830] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 16:53:00,400] ERROR in app: Exception on /api/getDiease/kmeans [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 123, in kmeans
+    return jsonify(KmeansMethod(request.args.get('Symptom')))
+  File "app.py", line 52, in KmeansMethod
+    return {'result':disease[kmeans.predict(getSymtopms(a.split(','),cols))[0]],'score':kmeans.score(X),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 16:53:01,434] ERROR in app: Exception on /api/getDiease/kneighbors [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 127, in kneighbors
+    return jsonify(KNeighborsClassifierMethod(request.args.get('Symptom')))
+  File "app.py", line 69, in KNeighborsClassifierMethod
+    return {'result':kneighbor.predict(getSymtopms(a.split(','),cols))[0],'score':kneighbor.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-03 16:53:15,168] ERROR in app: Exception on /api/getDiease/logisticregression [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 131, in logisticregression
+    return jsonify(LogisticRegressionMethod(request.args.get('Symptom')))
+  File "app.py", line 82, in LogisticRegressionMethod
+    return {'result':logisticregression.predict(getSymtopms(a.split(','),cols))[0],'score':logisticregression.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 16:53:15,699] ERROR in app: Exception on /api/getDiease/gaussiannb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 135, in gaussiannb
+    return jsonify(GaussianNBMethod(request.args.get('Symptom')))
+  File "app.py", line 40, in GaussianNBMethod
+    return {'result':gaussiannb.predict(getSymtopms(a.split(','),cols))[0],'score':gaussiannb.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-03 16:53:16,307] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-04 04:23:38,545] ERROR in app: Exception on /api/getDiease/kneighbors [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 127, in kneighbors
+    return jsonify(KNeighborsClassifierMethod(request.args.get('Symptom')))
+  File "app.py", line 69, in KNeighborsClassifierMethod
+    return {'result':kneighbor.predict(getSymtopms(a.split(','),cols))[0],'score':kneighbor.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-04 04:23:56,671] ERROR in app: Exception on /api/getDiease/logisticregression [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 131, in logisticregression
+    return jsonify(LogisticRegressionMethod(request.args.get('Symptom')))
+  File "app.py", line 82, in LogisticRegressionMethod
+    return {'result':logisticregression.predict(getSymtopms(a.split(','),cols))[0],'score':logisticregression.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-04 04:23:57,404] ERROR in app: Exception on /api/getDiease/multinomialnb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 119, in multinomialnb
+    return jsonify(MultinomialNBMethod(request.args.get('Symptom')))
+  File "app.py", line 26, in MultinomialNBMethod
+    return {'result':mulNB.predict(getSymtopms(a.split(','),cols))[0],'score':mulNB.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-04 04:24:24,293] ERROR in app: Exception on /api/getDiease/kmeans [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 123, in kmeans
+    return jsonify(KmeansMethod(request.args.get('Symptom')))
+  File "app.py", line 52, in KmeansMethod
+    return {'result':disease[kmeans.predict(getSymtopms(a.split(','),cols))[0]],'score':kmeans.score(X),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-04 04:24:25,360] ERROR in app: Exception on /api/getDiease/gaussiannb [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 135, in gaussiannb
+    return jsonify(GaussianNBMethod(request.args.get('Symptom')))
+  File "app.py", line 40, in GaussianNBMethod
+    return {'result':gaussiannb.predict(getSymtopms(a.split(','),cols))[0],'score':gaussiannb.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-04 06:31:06,514] ERROR in app: Exception on /api/getDiease/kneighbors [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 127, in kneighbors
+    return jsonify(KNeighborsClassifierMethod(request.args.get('Symptom')))
+  File "app.py", line 69, in KNeighborsClassifierMethod
+    return {'result':kneighbor.predict(getSymtopms(a.split(','),cols))[0],'score':kneighbor.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+[2021-07-04 06:31:25,036] ERROR in app: Exception on /api/getDiease/logisticregression [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 131, in logisticregression
+    return jsonify(LogisticRegressionMethod(request.args.get('Symptom')))
+  File "app.py", line 82, in LogisticRegressionMethod
+    return {'result':logisticregression.predict(getSymtopms(a.split(','),cols))[0],'score':logisticregression.score(X, np.ravel(y)),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+[2021-07-04 06:31:54,598] ERROR in app: Exception on /api/getDiease/kmeans [GET]
+Traceback (most recent call last):
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask_cors/extension.py", line 165, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 123, in kmeans
+    return jsonify(KmeansMethod(request.args.get('Symptom')))
+  File "app.py", line 52, in KmeansMethod
+    return {'result':disease[kmeans.predict(getSymtopms(a.split(','),cols))[0]],'score':kmeans.score(X),'time':time.time()-s}
+AttributeError: 'NoneType' object has no attribute 'split'
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
+/home/trackmhr/virtualenv/medcine.trackiness.com/3.8/lib/python3.8/site-packages/sklearn/utils/validation.py:63: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples, ), for example using ravel().
+  return f(*args, **kwargs)
